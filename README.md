@@ -1,7 +1,7 @@
 # Good-Light-For-Working
 Task under "Embedded System Lab Training SS_2019" course, RCSE
 
-### Group Members-
+### Group Members
 Manraj Singh, Saqib Nawaz, Tanvi Singh
 
 ### Breadboard
