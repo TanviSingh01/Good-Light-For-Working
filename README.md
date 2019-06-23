@@ -5,7 +5,7 @@ Task under "Embedded System Lab Training SS_2019" course, RCSE
 Manraj Singh, Saqib Nawaz, Tanvi Singh
 
 ### Breadboard
-<img width="90%" src="images/GoodLightForWorking_breadboard.png">
+<img width="90%" src="images\GoodLightForWorking_breadboard.png">
 
 ### Required Components
 1. Arduino Leonardo Board with USB connector
@@ -17,4 +17,4 @@ Manraj Singh, Saqib Nawaz, Tanvi Singh
 7. Jumper wires x 30
 
 ### Schematic
-<img width="90%" src="images/GoodLightForWorking_scematic.png">
+<img width="90%" src="images\GoodLightForWorking_scematic.png">
