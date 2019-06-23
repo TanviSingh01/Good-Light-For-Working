@@ -5,16 +5,16 @@ Task under "Embedded System Lab Training SS_2019" course, RCSE
 Manraj Singh, Saqib Nawaz, Tanvi Singh
 
 ### Breadboard
-<img width="90%" src="GoodLightForWorking_breadoard.png">
+<img width="90%" src="GoodLightForWorking_breadboard.png">
 
 ### Required Components
-1. Arduino Uno Board with USB connector
+1. Arduino Leonardo Board with USB connector
 2. Breadboard
-3. LCD Screen (compatible with Hitachi HD44780 driver)
+3. PC
 4. LDR(Light-Dependent Resistor)/Photocell
 5. LED
-6. 220 ohm resistor x 4
+6. 220 ohm resistor x 2
 7. Jumper wires x 30
 
 ### Schematic
-<img width="90%" src="GoodLightForWorking_schematic.png">
+<img width="90%" src="GoodLightForWorking_scematic.png">
