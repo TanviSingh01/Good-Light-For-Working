@@ -4,8 +4,8 @@ Task under "Embedded System Lab Training SS_2019" course, RCSE
 ### Group Members
 Manraj Singh, Saqib Nawaz, Tanvi Singh
 
-### Breadboard
-<img width="90%" src="Images\GoodLightForWorking_breadboard.png">
+### Task Description
+An Arduino can act as a PC USB Keyboard. Connect a light sensor to your Arduino and detect sunset (ignore quick changes). Remind the user repeatedly to not work on a display without a sufficient light source. Take action if the user doesn't turn on a light in a over 5 minutes. Assume a Windows 7 or 10 installation on the connected PC.
 
 ### Required Components
 1. Arduino Leonardo Board with USB connector
@@ -15,6 +15,9 @@ Manraj Singh, Saqib Nawaz, Tanvi Singh
 5. LED
 6. 220 ohm resistor x 2
 7. Jumper wires x 30
+
+### Breadboard
+<img width="90%" src="Images\GoodLightForWorking_breadboard.png">
 
 ### Schematic
 <img width="90%" src="Images\GoodLightForWorking_scematic.png">
