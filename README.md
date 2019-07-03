@@ -12,9 +12,8 @@ An Arduino can act as a PC USB Keyboard. Connect a light sensor to your Arduino 
 2. Breadboard
 3. PC
 4. LDR(Light-Dependent Resistor)/Photocell
-5. LED
-6. 220 ohm resistor x 2
-7. Jumper wires x 30
+5. 220 ohm resistor x 1
+6. Jumper wires x 5
 
 ### Breadboard
 <img width="90%" src="Images\GoodLightForWorking_breadboard.png">
